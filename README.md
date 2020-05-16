@@ -1,2 +1,0 @@
-# begin-sample
-Begin app
